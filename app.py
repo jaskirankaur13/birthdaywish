@@ -111,6 +111,3 @@ elif st.session_state.page == 'letter':
     if st.button("Back to Dashboard"):
         st.session_state.page = 'dashboard'
         st.rerun()
-
-!streamlit run birthday_gift.py
- 
