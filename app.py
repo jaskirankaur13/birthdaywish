@@ -1,4 +1,3 @@
-!pip install streamlit
 %%writefile birthday_gift.py
 import streamlit as st
 
